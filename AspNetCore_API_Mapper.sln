@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore_API_Mapper", "AspNetCore_API_Mapper\AspNetCore_API_Mapper.csproj", "{0BA46C40-56EC-42C2-807D-54D6195BB56B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BA46C40-56EC-42C2-807D-54D6195BB56B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BA46C40-56EC-42C2-807D-54D6195BB56B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BA46C40-56EC-42C2-807D-54D6195BB56B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BA46C40-56EC-42C2-807D-54D6195BB56B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E5FBFC9E-6661-4BD3-AC41-04684BD98518}
+	EndGlobalSection
+EndGlobal
