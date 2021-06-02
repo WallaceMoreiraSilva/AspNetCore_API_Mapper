@@ -22,7 +22,7 @@ namespace AspNetCore_API_Mapper.Controllers
         }
 
         [HttpPost]
-        public IActionResult Post(Funcionario func)
+        public IActionResult MapperClassXToClassY(Funcionario func)
         {
             var funcionarioDTO = _mapper.Map<FuncionarioDTO>(func);
 
